@@ -1,2 +1,2 @@
-# homestuck-greasymonke
-greasymonkey scripts for homestuck
+# homestuck-greasymonkey
+greasymonkey scripts for homestuck to make it suck less.
